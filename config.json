@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configperify",
+        "uuid": 1455090,
+        "checksum": "pp00fp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
